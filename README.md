@@ -1,7 +1,7 @@
 # **Ứng dụng xác thực khuôn mặt và LSTM trong nhận diện & đếm động tác gập bụng từ video - SitUpFaceLogin**  
 
 ### **Thông tin nhóm**  
-- **Tên sinh viên:** Nguyễn Văn Nguyên  
+- **Tên sinh viên:** Nguyễn Hữu Huy  
 - **Nhóm:** Nhóm 10
 - **Lớp:** CNTT 16-01
 - **Môn**: THỰC TẬP CNTT 5: TRIỂN KHAI ỨNG DỤNG AI, IOT
