@@ -1,4 +1,4 @@
-# **Ứng dụng AI trong xác thực khuôn mặt và LSTM trong nhận diện & đếm động tác gập bụng từ video - SitUpFaceLogin**  
+![Poster_Nhom10 (1)](https://github.com/user-attachments/assets/2afde46c-341c-42c4-9b48-586a16e7e288)![Poster_Nhom10 (1)](https://github.com/user-attachments/assets/b1dd76a9-4baa-4343-854b-45e4234c40e6)# **Ứng dụng AI trong xác thực khuôn mặt và LSTM trong nhận diện & đếm động tác gập bụng từ video - SitUpFaceLogin**  
 ---
 
 <p align="center">
@@ -20,7 +20,6 @@
 ## **Giới thiệu**  
 **SitUpFaceLogin** là một dự án sử dụng **nhận diện khuôn mặt** và **nhận diện tư thế** để **đếm số lần gập bụng**. Hệ thống sẽ xác thực người dùng bằng khuôn mặt trước khi theo dõi số lần tập luyện và lưu trữ kết quả vào **MySQL** được hướng dẫn và góp ý bởi 2 giảng viên **LÊ TRUNG HIẾU** và **NGUYỄN VĂN NHÂN** thuộc *KHOA CÔNG NGHỆ THÔNG TIN* - **ĐẠI HỌC ĐẠI NAM "Dainam University"**.  
 
-Tài liệu này hướng dẫn chi tiết cách **cài đặt** và **chạy** hệ thống.  
 ## **Thành viên tham gia**
 | STT | Tên sinh viên         | Mã sinh viên    | Nhóm  | Lớp        |  
 |-----|----------------------|---------------|-------|-----------|  
@@ -28,9 +27,11 @@ Tài liệu này hướng dẫn chi tiết cách **cài đặt** và **chạy** 
 | 2   | Đặng Lê Hoàng Anh    | 1671020010    | 10    | CNTT 16-01 |  
 | 3   | Nguyễn Văn Nguyên    | 1671020229    | 10    | CNTT 16-01 |  
 
+Tài liệu này hướng dẫn chi tiết cách **cài đặt** và **chạy** hệ thống.  
 
 ## **Mô hình hoạt động**
-![image](https://github.com/user-attachments/assets/5ff27214-e647-402d-8008-d2fa27e15780)
+![image](https://github.com/user-attachments/assets/61f735ca-4ea6-4e32-a3ef-346cdad7e124)
+
 
 ---
 💡 **Công nghệ sử dụng:**  
@@ -237,6 +238,7 @@ http://localhost:5000
 
 ---
 ## **Poster**
-![Poster_Nhom10](https://github.com/user-attachments/assets/5d03963d-0ab2-458f-8b09-0d8bb33275f1)
+![Poster_Nhom10 (1)](https://github.com/user-attachments/assets/ec1dc5ef-1b88-4302-a4ff-126c365daf76)
+
 
 **🔥 Chúc bạn triển khai thành công dự án SitUpFaceLogin! 🔥** 🚀
